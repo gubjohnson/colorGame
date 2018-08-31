@@ -1,0 +1,15 @@
+{
+  "name": "colorgame",
+  "version": "1.0.0",
+  "description": "color game project",
+  "main": "index.js",
+  "homepage": "https://gubjohnson.github.io/colorGame/",
+  "scripts": {
+    "depoly": "gh-pages -d dist"
+  },
+  "author": "Johnny Chen",
+  "license": "ISC",
+  "dependencies": {
+    "gh-pages": "^1.2.0"
+  }
+}
